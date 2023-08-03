@@ -1,0 +1,48 @@
+html
+{
+background: moccasin;
+}
+h1
+{
+color:maroon;
+font-family: fantasy;
+font-weight: normal;
+font-size: xx-large;
+}
+h2
+{
+color:firebrick;
+}
+h3
+{
+    color:blueviolet
+}
+#job
+{
+    color:rgb(69, 34, 9);
+}
+#edu
+{
+    color:navy;
+}
+footer
+{
+    font-size: xx-small;font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#work
+{
+    color:rgb(0, 59, 168);
+}
+p{
+    font-size:15px;
+}
+#intro
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
